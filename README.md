@@ -32,7 +32,7 @@ Feel free to reach out, connect, and collaborate. Let's make the digital landsca
 
 
 - 👋 Hi, I’m @Rohitpatidar1432
-- 👀 I’m interested in ...Instagram hacking
+- 👀 I’m interested in ...Capture the Flag (CTF)
 - 🌱 I’m currently learning ... Ethical hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
